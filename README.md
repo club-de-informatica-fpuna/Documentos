@@ -8,3 +8,4 @@
 Colaboradores:
 - [Lucas Vega](https://github.com/LucasVega777)
 - [Leo Pedrozo](https://github.com/LeoPedrozo)
+- [Luis Alberto Cañete](https://github.com/LuisAlbertoCB)
